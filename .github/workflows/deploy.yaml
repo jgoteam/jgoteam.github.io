@@ -20,7 +20,7 @@ jobs:
           node-version: "18.x"
 
       - name: Installing my packages
-        run: pnpm ci
+        run: pnpm install
 
       - name: Extract repository name
         run: echo "BASE_PATH=/$(echo $GITHUB_REPOSITORY | cut -d '/' -f 2)" >> $GITHUB_ENV
