@@ -22,7 +22,7 @@ jobs:
           node-version: "node"
 
       - name: Installing my packages
-        run: npx pnpm install --global pnpm
+        run: cd .. && pnpm install
 
       - name: Extract repository name
         run: echo "BASE_PATH=/$(echo $GITHUB_REPOSITORY | cut -d '/' -f 2)" >> $GITHUB_ENV
