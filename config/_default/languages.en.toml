@@ -13,12 +13,14 @@ title = "Joseph Liang"
   # description = "My awesome website"
 
 [params.author]
-  # name = "Joseph Liang"
-  # image = "img/author.jpeg"
-  # headline = "I'm only human"
+  name = "Joseph Liang"
+  image = "img/author.jpeg"
+  headline = "Software Engineer"
   # bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
+  #   { github = "https://github.com/username" },
+  #   { linkedin = "https://linkedin.com/in/username" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
