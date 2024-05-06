@@ -10,20 +10,20 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 10
+# [[main]]
+#  name = "Projects"
+#  pageRef = "projects"
+#  weight = 10
 
 [[main]]
-  name = "Linkedin"
-  url = "http://www.linkedin.com/in/joseph-liang-1b45668a"
-  weight = 30
+  name = "Resume"
+  url = "/pdf/joseph-liang-swe-resume.pdf"
+  weight = 20
 
-[[main]]
-  name = "Github"
-  url = "https://github.com/jgoteam"
-  weight = 40
+# [[main]]
+#  name = "About"
+#  pageRef = "about"
+#  weight = 30
 
 [[main]]
   identifier = "search"

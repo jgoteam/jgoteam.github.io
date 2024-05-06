@@ -16,11 +16,12 @@ title = "Joseph Liang"
   name = "Joseph Liang"
   image = "img/author.jpeg"
   headline = "Software Engineer"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
-  #   { github = "https://github.com/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+  bio = "A little bit about you"
+  links = [
+     { email = "mailto:josephliang@outlook.com" },
+     { github = "https://github.com/jgoteam" },
+     { linkedin = "https://linkedin.com/in/joseph-liang-1b45668a" },
+  ]
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
