@@ -1,4 +1,4 @@
-I’m a full-stack Software Engineer with multiple years of experience with JavaScript, TypeScript, Ruby, Go, and Python. Based in San Francisco, CA.
+I’m a full-stack Software Engineer with multiple years of experience in the JavaScript and Ruby ecosystems. I'm also proficient in TypeScript and Go. Based in San Francisco, CA.
 
 Recently, I built [Syncosaurus](https://syncosaurus.github.io), an open-source, serverless framework for real-time collaborative applications, featuring a synchronization system utilizing [client-side prediction and server reconciliation](https://en.wikipedia.org/wiki/Client-side_prediction).
 
