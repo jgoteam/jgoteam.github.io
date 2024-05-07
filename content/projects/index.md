@@ -20,7 +20,7 @@ showAuthor: false
 
 **[Syncosaurus](https://syncosaurus.github.io)** is an open-source, serverless framework for collaborative, real-time applications, enabling developers to focus on their application's features and business logic instead of the complexities of WebSocket scaling, state synchronization, and conflict resolution.
 
-Built with JavaScript, Express, React, Cloudflare's [Durable Objects](https://developers.cloudflare.com/durable-objects/), and Tailwind.
+_Built with JavaScript, React, Express, Cloudflare's [Durable Objects](https://developers.cloudflare.com/durable-objects/), [oclif](https://oclif.io/) and Tailwind_
 
 _Key Features_
 
